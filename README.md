@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute the [arcsine][arcsine] in degrees of a double-precision floating-point number.
+> Compute the [arcsine][arcsine] (in degrees) of a double-precision floating-point number.
 
 <section class="installation">
 
@@ -69,6 +69,7 @@ Computes the [arcsine][arcsine] (in degrees) of a double-precision floating-poin
 
 ```javascript
 var sqrt = require( '@stdlib/math-base-special-sqrt' );
+
 var v = asind( 0.0 );
 // returns 0.0
 
@@ -187,7 +188,7 @@ double stdlib_base_asind( const double x );
 #include <stdio.h>
 
 int main( void ) {
-    const double x[] = { 1.0, 1.45, 1.89, 2.33, 2.78, 3.22, 3.66, 4.11, 4.55, 5.0 };
+    const double x[] = { 1.0, 0.45, -0.89, 0.33, -0.78, -0.22, 0.66, 0.11, -0.55, 0.0 };
     
     double v;
     int i;
