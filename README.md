@@ -211,6 +211,14 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/asin`][@stdlib/math/base/special/asin]</span><span class="delimiter">: </span><span class="description">compute the arcsine of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/asinh`][@stdlib/math/base/special/asinh]</span><span class="delimiter">: </span><span class="description">compute the hyperbolic arcsine of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/atand`][@stdlib/math/base/special/atand]</span><span class="delimiter">: </span><span class="description">compute the arctangent(in degrees) of a double-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -254,8 +262,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-asind.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-asind
 
-[test-image]: https://github.com/stdlib-js/math-base-special-asind/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/math-base-special-asind/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/math-base-special-asind/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-base-special-asind/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-asind/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-asind?branch=main
@@ -290,6 +298,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [arcsine]: https://en.wikipedia.org/wiki/Inverse_trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/asin]: https://github.com/stdlib-js/math-base-special-asin
+
+[@stdlib/math/base/special/asinh]: https://github.com/stdlib-js/math-base-special-asinh
+
+[@stdlib/math/base/special/atand]: https://github.com/stdlib-js/math-base-special-atand
 
 <!-- </related-links> -->
 
