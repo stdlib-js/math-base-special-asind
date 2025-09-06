@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-09-06)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`3e6159b`](https://github.com/stdlib-js/stdlib/commit/3e6159bbb50ef50bf9ef464e99a207fa3878995d) - **docs:** resolve doctest errors in TSDoc _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`55044b9`](https://github.com/stdlib-js/stdlib/commit/55044b91b4c63b5d600fb2cc04e810c50b3db422) - **docs:** add missing spaces _(by Philipp Burckhardt)_
 -   [`1019217`](https://github.com/stdlib-js/stdlib/commit/10192179ef8278f942ac9909b382381f8740e9f0) - **test:** add tests for IEEE 754-2019 compliance [(#6595)](https://github.com/stdlib-js/stdlib/pull/6595) _(by Karan Anand)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
