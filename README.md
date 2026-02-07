@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import asind from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asind@deno/mod.js';
+import asind from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asind@v0.1.2-deno/mod.js';
 ```
 
 #### asind( x )
@@ -88,7 +88,7 @@ var v = asind( -3.14 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import asind from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asind@deno/mod.js';
+import asind from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-asind@v0.1.2-deno/mod.js';
 
 var x = uniform( 100, -1.0, 1.0, {
     'dtype': 'float64'
